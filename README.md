@@ -1,4 +1,3 @@
-# advanced-todo
 # Advanced To-Do Application with React
 
 This is an advanced to-do application built with React, Redux, and API integration. It includes user authentication simulation and responsive design.
